@@ -13,7 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-image: url(images/torshov-image.svg);
+  background-image: url(images/kabul.jpg);
   background-size: cover;
 }
 
@@ -57,11 +57,12 @@ h2 span {
 }
 
 .activity-section div {
-  width: 10%;
+  width: 20%;
 }
 
 .second-section-img {
   width: 200px;
+  height: 200px;
   border-radius: 50%;
 }
 
