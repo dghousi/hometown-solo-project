@@ -12,7 +12,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 70vh;
   background-image: url(images/kabul.jpg);
   background-size: cover;
 }
@@ -53,7 +53,7 @@ h2 span {
   justify-content: space-around;
   align-items: center;
   background: #f1faee;
-  height: 100vh;
+  height: 50vh;
 }
 
 .activity-section div {
@@ -81,14 +81,14 @@ h2 span {
   align-items: center;
   justify-content: center;
   display: flex;
-  height: 100vh;
+  height: 70vh;
   background: whitesmoke;
 }
 
 .guide-section {
   display: flex;
   width: 30vw;
-  height: 50vh;
+  height: 35vh;
   background: #a8dadc;
   box-shadow: 0px 6px 0px #1d3557;
   border-radius: 10px;
@@ -96,9 +96,9 @@ h2 span {
   color: #1d3557;
 }
 
-.guide-section div {
+/* .guide-section div {
   margin-top: 100px;
-}
+} */
 
 .guide-section p {
   font-style: italic;
