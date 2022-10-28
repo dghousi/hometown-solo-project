@@ -81,14 +81,14 @@ h2 span {
   align-items: center;
   justify-content: center;
   display: flex;
-  height: 70vh;
+  height: 50vh;
   background: whitesmoke;
 }
 
 .guide-section {
   display: flex;
   width: 30vw;
-  height: 35vh;
+  height: 27vh;
   background: #a8dadc;
   box-shadow: 0px 6px 0px #1d3557;
   border-radius: 10px;
